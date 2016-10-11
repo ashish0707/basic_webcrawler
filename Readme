@@ -1,0 +1,19 @@
+Libraries needed : BeautifulSoup.
+For installing on mac : pip install beautifulsoup4
+For installing on windows : python -m pip install BeautifulSoup4 (assuming pip is installed on machine)
+
+
+For task1
+Run task1.py        Output - task1.txt
+
+For task 2.1 BFS
+Run task2.1_BFS.py  Output - 2.A_bfs.txt
+
+For task 2.2 DFS
+Run task2.2_DFS.py  Output - 2.B_dfs.txt
+
+For task 2.3
+check task2.C.txt
+
+For task 3
+Run task3.py        Output - task3.txt

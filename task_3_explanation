@@ -1,0 +1,7 @@
+Since the URLS at shallow depth are more important than the deeper ones
+
+
+Take depth 1 urls from task1 and task3's output.
+Merge it
+Check it the list length < 1000
+Repeat for depth 2 and so on.
