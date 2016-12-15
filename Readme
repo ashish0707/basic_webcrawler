@@ -1,3 +1,5 @@
+Basic Crawler
+
 Libraries needed : BeautifulSoup.
 For installing on mac : pip install beautifulsoup4
 For installing on windows : python -m pip install BeautifulSoup4 (assuming pip is installed on machine)
